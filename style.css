@@ -1,8 +1,11 @@
+#wrapper{
+    padding: 2rem 1rem;
+}
 #logo-btn{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2rem 0;
+    padding-bottom: 2rem;
 }
 #logo{
     max-height: 30px;
