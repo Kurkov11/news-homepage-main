@@ -29,4 +29,8 @@ body{
     background-color: hsl(5, 85%, 63%);
     color: white;
     width: fit-content;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-size: 14px;
+    padding: 1rem 2rem;
 }
