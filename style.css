@@ -25,3 +25,8 @@ body{
     line-height: 1.5rem;
     color: hsl(240, 18%, 55%);
 }
+#rm-btn{
+    background-color: hsl(5, 85%, 63%);
+    color: white;
+    width: fit-content;
+}
