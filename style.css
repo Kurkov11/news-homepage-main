@@ -21,3 +21,7 @@ body{
     font-size: 40px;
     font-weight: 800;
 }
+#subtitle{
+    line-height: 1.5rem;
+    color: hsl(240, 18%, 55%);
+}
