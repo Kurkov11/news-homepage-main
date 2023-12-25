@@ -17,3 +17,7 @@ body{
     max-height: 20px;
     min-width: 50px;
 }
+#title{
+    font-size: 40px;
+    font-weight: 800;
+}
