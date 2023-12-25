@@ -3,3 +3,10 @@
     justify-content: space-between;
     padding: 2rem 1rem;
 }
+#logo{
+    max-height: 30px;
+}
+#menu-icon{
+    max-height: 20px;
+    min-width: 50px;
+}
