@@ -139,4 +139,7 @@ body{
     #container1-desktop{
         flex-direction: row;
     }
+    #counted-list{
+        display: flex;
+    }
 }
