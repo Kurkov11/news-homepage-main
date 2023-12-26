@@ -172,6 +172,7 @@ body{
     }
     #title{
         font-size: 50px;
+        margin: 0;
     }
     main{
         gap: 3rem;
@@ -202,6 +203,7 @@ body{
     }
     .black-card-p{
         border-bottom: 1px solid hsla(0, 0%, 67%, 0.5);
+        line-height: 1.5rem;
     }
     #black-card-p-last{
         padding: 0;
