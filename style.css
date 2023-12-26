@@ -38,8 +38,11 @@ body{
     max-height: 20px;
     min-width: 50px;
 }
-#main-img{
+#main-img-mobile{
     margin-bottom: 1rem;
+}
+#main-img-desktop{
+    display: none;
 }
 #title{
     font-size: 40px;
