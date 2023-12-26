@@ -182,6 +182,9 @@ body{
     #new-text{
         font-size: 40px;
     }
+    #black-card{
+        padding: 2rem;
+    }
     .black-card-title{
         font-size: 19px;
     }
