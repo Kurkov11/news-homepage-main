@@ -61,6 +61,10 @@ body{
     margin: 0;
     border: 0;
 }
+#counted-list section{
+    display: flex;
+    align-items: center;
+}
 .counted-img{
     width: 100px;
 }
