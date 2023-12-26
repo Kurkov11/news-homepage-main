@@ -8,9 +8,13 @@ body{
     position: absolute;
     right: 0;
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
 }
 #menu-icon-closed{
     max-height: 30px;
+    align-self: end;
 }
 #logo-btn{
     display: flex;
