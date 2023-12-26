@@ -161,4 +161,12 @@ body{
     main{
         gap: 3rem;
     }
+    #subtitle-btn{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    #rm-btn{
+        margin: 0;
+    }
 }
