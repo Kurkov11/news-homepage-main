@@ -157,6 +157,9 @@ body{
         display: flex;
         gap: 2rem;
     }
+    .option{
+        margin: 0;
+    }
     #container1-desktop{
         gap: 2rem;
     }
