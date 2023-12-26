@@ -36,17 +36,28 @@ body{
 }
 #black-card{
     background-color: black;
+    padding: 1rem;
 }
 #new-text{
     color: hsl(35, 77%, 62%);
     font-weight: 700;
     font-size: 30px;
+    margin-bottom: 2rem;
 }
 .black-card-title{
     color: white;
     font-weight: 700;
+    margin-bottom: 0.5rem;
 }
 .black-card-p{
     color: hsl(0, 0%, 67%);
     font-size: 14px;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+    border-bottom: 0.1px solid hsla(0, 0%, 67%, 0.5);
+}
+#black-card-p-last{
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
