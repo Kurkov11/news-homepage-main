@@ -154,7 +154,8 @@ body{
         display: none;
     }
     #desktop-menu{
-        display: block;
+        display: flex;
+        gap: 2rem;
     }
     #container1-desktop{
         gap: 2rem;
