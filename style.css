@@ -4,6 +4,10 @@ body{
 #wrapper{
     padding: 2rem 1rem;
 }
+#mobile-menu{
+    position: absolute;
+    background-color: white;
+}
 #logo-btn{
     display: flex;
     justify-content: space-between;
