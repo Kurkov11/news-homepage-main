@@ -22,11 +22,13 @@ body{
     max-height: 30px;
     align-self: end;
     margin-bottom: 6rem;
+    cursor: pointer;
 }
 .option{
     margin-bottom: 1.5rem;
     font-size: 18px;
     font-weight: 500;
+    cursor: pointer;
 }
 #logo-btn{
     display: flex;
@@ -40,6 +42,7 @@ body{
 #menu-icon{
     max-height: 20px;
     min-width: 50px;
+    cursor: pointer;
 }
 #main-img-mobile{
     margin-bottom: 1rem;
@@ -67,6 +70,7 @@ body{
     font-size: 14px;
     padding: 0.8rem 2rem;
     margin-bottom: 3rem;
+    cursor: pointer;
 }
 #black-card{
     background-color: black;
