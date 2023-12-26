@@ -191,4 +191,11 @@ body{
     .black-card-p{
         font-size: 15px;
     }
+    .black-card-p{
+        border-bottom: 1px solid hsla(0, 0%, 67%, 0.5);
+    }
+    #black-card-p-last{
+        padding: 0;
+        border: 0;
+    }
 }
