@@ -123,6 +123,7 @@ body{
 /* Desktop containers */
 #container1-desktop{
     display: flex;
+    flex-direction: column;
 }
 @media only screen and (width >= 1440px){
     #main-img-mobile{
@@ -131,5 +132,8 @@ body{
     #main-img-desktop{
         display: block;
         max-height: 20rem;
+    }
+    #container1-desktop{
+        flex-direction: row;
     }
 }
