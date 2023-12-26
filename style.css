@@ -196,6 +196,7 @@ body{
     .option{
         margin: 0;
         color: hsl(240, 18%, 55%);
+        font-size: 20px;
     }
     #container1-desktop{
         gap: 2rem;
