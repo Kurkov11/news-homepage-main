@@ -159,7 +159,9 @@ body{
     #container1-desktop{
         gap: 2rem;
     }
-    
+    #black-card{
+        height: fit-content;
+    }
     #container2-desktop{
         max-width: 780px;
     }
