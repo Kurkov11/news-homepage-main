@@ -166,7 +166,7 @@ body{
         max-width: 780px;
     }
     #title{
-        font-size: 45px;
+        font-size: 50px;
     }
     main{
         gap: 3rem;
@@ -178,5 +178,14 @@ body{
     }
     #rm-btn{
         margin: 0;
+    }
+    #new-text{
+        font-size: 40px;
+    }
+    .black-card-title{
+        font-size: 19px;
+    }
+    .black-card-p{
+        font-size: 15px;
     }
 }
