@@ -37,3 +37,16 @@ body{
 #black-card{
     background-color: black;
 }
+#new-text{
+    color: hsl(35, 77%, 62%);
+    font-weight: 700;
+    font-size: 30px;
+}
+.black-card-title{
+    color: white;
+    font-weight: 700;
+}
+.black-card-p{
+    color: hsl(0, 0%, 67%);
+    font-size: 14px;
+}
