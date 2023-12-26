@@ -11,6 +11,9 @@ body{
     display: flex;
     flex-direction: column;
     align-items: start;
+    padding: 2rem 1rem;
+    width: 70vw;
+    height: 100%;
 }
 #menu-icon-closed{
     max-height: 30px;
