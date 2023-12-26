@@ -129,6 +129,27 @@ body{
     display: flex;
     flex-direction: column;
 }
+@media only screen and (width > 600px){
+    #main-img-mobile{
+        display: none;
+    }
+    #main-img-desktop{
+        display: block;
+        margin-bottom: 3rem;
+    }
+    #subtitle{
+        font-size: 18px;
+    }
+    #new-text{
+        font-size: 35px;
+    }
+    .black-card-title{
+        font-size: 20px;
+    }
+    .black-card-p{
+        font-size: 16px;
+    }
+}
 @media only screen and (width >= 1370px){
     #wrapper{
         padding: 5rem 10rem;
