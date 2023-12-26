@@ -145,4 +145,10 @@ body{
     #counted-list{
         display: flex;
     }
+    #menu-icon{
+        display: none;
+    }
+    #desktop-menu{
+        display: block;
+    }
 }
