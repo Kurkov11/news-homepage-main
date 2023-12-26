@@ -171,6 +171,9 @@ body{
     main{
         gap: 3rem;
     }
+    #subtitle{
+        width: 360px;
+    }
     #subtitle-btn{
         display: flex;
         flex-direction: column;
