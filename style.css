@@ -134,6 +134,13 @@ body{
     flex-direction: column;
 }
 @media only screen and (width > 600px){
+    .option{
+        font-size: 25px;
+        margin-bottom: 3rem;
+    }
+    #mobile-menu{
+        padding: 2rem 3rem;
+    }
     #main-img-mobile{
         display: none;
     }
