@@ -156,6 +156,10 @@ body{
     #desktop-menu{
         display: block;
     }
+    #container1-desktop{
+        gap: 2rem;
+    }
+    
     #container2-desktop{
         max-width: 780px;
     }
