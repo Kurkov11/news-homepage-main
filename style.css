@@ -130,6 +130,9 @@ body{
     flex-direction: column;
 }
 @media only screen and (width >= 1440px){
+    #wrapper{
+        padding: 5rem 10rem;
+    }
     main{
         display: flex;
     }
