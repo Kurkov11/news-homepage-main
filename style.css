@@ -129,7 +129,7 @@ body{
     display: flex;
     flex-direction: column;
 }
-@media only screen and (width >= 1440px){
+@media only screen and (width >= 1370px){
     #wrapper{
         padding: 5rem 10rem;
     }
