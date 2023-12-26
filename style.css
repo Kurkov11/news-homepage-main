@@ -9,6 +9,9 @@ body{
     right: 0;
     background-color: white;
 }
+#menu-icon-closed{
+    max-height: 30px;
+}
 #logo-btn{
     display: flex;
     justify-content: space-between;
