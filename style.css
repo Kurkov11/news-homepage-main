@@ -153,12 +153,16 @@ body{
     #menu-icon{
         display: none;
     }
+    #logo{
+        max-height: 40px;
+    }
     #desktop-menu{
         display: flex;
         gap: 2rem;
     }
     .option{
         margin: 0;
+        color: hsl(240, 18%, 55%);
     }
     #container1-desktop{
         gap: 2rem;
