@@ -125,5 +125,11 @@ body{
     display: flex;
 }
 @media only screen and (width >= 1440px){
-    
+    #main-img-mobile{
+        display: none;
+    }
+    #main-img-desktop{
+        display: block;
+        max-height: 20rem;
+    }
 }
