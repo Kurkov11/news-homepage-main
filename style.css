@@ -139,6 +139,7 @@ body{
     #main-img-desktop{
         display: block;
         max-height: 20rem;
+        margin-bottom: 2rem;
     }
     #container1-desktop{
         flex-direction: row;
