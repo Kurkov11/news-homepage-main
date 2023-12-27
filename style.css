@@ -25,7 +25,7 @@ body{
     cursor: pointer;
 }
 .option{
-    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
     font-size: 18px;
     font-weight: 500;
     cursor: pointer;
@@ -150,7 +150,7 @@ body{
 @media only screen and (width > 600px){
     .option{
         font-size: 25px;
-        margin-bottom: 3rem;
+        padding-bottom: 3rem;
     }
     #mobile-menu{
         padding: 2rem 3rem;
@@ -205,12 +205,12 @@ body{
     }
     #desktop-menu{
         display: flex;
-        gap: 2rem;
     }
     .option{
-        margin: 0;
+        padding: 0;
+        padding-right: 2rem;
         color: hsl(240, 18%, 55%);
-        font-size: 20px;
+        font-size: 16px;
     }
     #container1-desktop{
         gap: 2rem;
