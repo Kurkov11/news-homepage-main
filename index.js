@@ -1,6 +1,6 @@
 document.getElementById('menu-icon').onclick = function(){
     document.getElementById('mobile-menu').style.display = 'flex';
-    document.getElementById('stop-scrolling').style.overflow = 'hidden'
+    document.getElementById('stop-scrolling').style.overflow = 'hidden';
     document.getElementById('black-box').style.display = 'block';
     document.getElementById('black-box').style.opacity = '0.5';
 }
