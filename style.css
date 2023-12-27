@@ -1,8 +1,10 @@
 body{
     font-family: 'inter';
+    background-color: black;
 }
 #wrapper{
     padding: 2rem 1rem;
+    background-color: white;
 }
 #mobile-menu{
     position: fixed;
