@@ -30,6 +30,9 @@ body{
     font-weight: 500;
     cursor: pointer;
 }
+.option:hover{
+    color: hsl(5, 85%, 63%);
+}
 #logo-btn{
     display: flex;
     justify-content: space-between;
@@ -72,6 +75,9 @@ body{
     margin-bottom: 3rem;
     cursor: pointer;
 }
+#rm-btn:hover{
+    background-color: black;
+}
 #black-card{
     background-color: black;
     padding: 1rem;
@@ -87,6 +93,9 @@ body{
     font-weight: 700;
     margin-bottom: 0.5rem;
     cursor: pointer;
+}
+.black-card-title:hover{
+    color: hsl(35, 77%, 62%);
 }
 .black-card-p{
     color: hsl(0, 0%, 67%);
@@ -123,6 +132,9 @@ body{
     font-size: 16px;
     margin-bottom: 0.5rem;
     cursor: pointer;
+}
+.counted-title:hover{
+    color: hsl(5, 85%, 63%);
 }
 .counted-p{
     color: hsl(0, 0%, 44%);
